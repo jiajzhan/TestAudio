@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lexicon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd" version="1.0" alphabet="sapi" xml:lang="zh-CN" xmlns="http://www.w3.org/2005/01/pronunciation-lexicon">
+  <lexeme>
+    <grapheme>BTW</grapheme>
+    <alias>By the way</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>叶璃皇上</grapheme>
+    <alias>By the way</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>皇上</grapheme>
+    <alias>By the way</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>你好</grapheme>
+    <phoneme>ni 3 - hao 3</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>叶璃王子</grapheme>
+    <phoneme>ye 1 - li 4</phoneme>
+  </lexeme>
+  <lexeme>
+   <grapheme>车窗开条缝</grapheme>
+   <phoneme>che 1 - chuang 1 - kai 1 - tiao 1 - feng 2</phoneme>
+  </lexeme>
+</lexicon>
